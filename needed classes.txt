@@ -1,0 +1,1 @@
+class BadParametersDS: public std::exception {};
